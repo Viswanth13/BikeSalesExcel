@@ -1,4 +1,5 @@
 # Bike Sales Analysis Project
+Project link : https://1drv.ms/x/c/5266332252c116f3/ERkiMJ4UHSVGmf5InNrY9M0BxpKJeZy2WKSTkQM5DZnJ2Q?e=6IQnyj
 
 ## Overview
 This project involves analyzing bike sales data to gain insights into customer demographics and purchasing patterns. Using Excel, I performed various data manipulations, created pivot tables and charts, and developed an interactive dashboard to visualize the data effectively.
